@@ -6,7 +6,7 @@ using for loop, while loop and do-while loop. a description of class w1q1 here.
  * @author (your name)
  * @version (a version number or a date)
  */
-public class w5q1 extends w5q1 {
+public class w5q1  {
     public static void main(String[] args) {
         int i;
 
