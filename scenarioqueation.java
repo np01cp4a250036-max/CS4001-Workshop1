@@ -9,8 +9,6 @@ import java.util.Scanner;
 public class scenarioqueation
 {
     
-
-public class FixedDepositNIB {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
         int count = 1;
@@ -54,5 +52,4 @@ public class FixedDepositNIB {
         scanner.close();
         System.out.println("Thank you for using FixedDepositNIB!");
     }
-}
 }
